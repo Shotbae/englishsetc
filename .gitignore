@@ -1,0 +1,12 @@
+# Local credentials, dependencies and student data
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+*.xlsx
+*.xls
+*.csv
+attachments/
+# Local first-semester working copy; repository history is in archive/
+1학기 영어 세특 프롬프트.txt
